@@ -1,0 +1,71 @@
+name: info_egypt
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  url_launcher: ^5.2.3
+
+
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    # Google Maps plugin
+  google_maps_flutter: ^0.5.21+8
+
+flutter:
+
+
+  uses-material-design: true
+  assets:
+      - images/egypt.png
+      - images/egypt1.png
+      - images/q.jpg
+      - images/c.jpg
+      - images/kom.jpg
+      - images/sharm.jpg
+      - images/n.jpg
+      - images/t.jpg
+      - images/d.jpg
+      - images/habu.jpg
+      - images/abusemple.jpg
+      - images/combo.jpg
+      - images/klabsha.jpg
+      - images/khan.jpg
+      - images/tower.PNG
+      - images/salah.jpg
+      - images/mu.jpg
+      - images/ibn.jpg
+      - images/ali.jpg
+      - images/ha.jpg
+      - images/m1.jpg
+      - images/i2.jpg
+      - images/i3.jpg
+      - images/i4.jpg
+      - images/i5.jpg
+      - images/i6.jpg
+      - images/i7.jpg
+      - images/i8.jpg
+      - images/i9.jpg
+      - images/i10.jpg
+      - images/i11.jpg
+      - images/i12.jpg
+      - images/i13.jpg
+      - images/i14.jpg
+      - images/i18.jpg
+      - images/i19.jpg
+      - images/i20.jpg
+      - images/i21.jpg
+      - images/i23.jpg
+      - images/i24.jpg
+      - images/i25.jpg
+      - images/i26.jpg
+
